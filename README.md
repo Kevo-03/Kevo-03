@@ -32,7 +32,7 @@
 <!-- CURRENT WORK -->
 <h3 align="center">🚧 Working On</h3>
 <p align="center">
-  <img height="32" src="https://img.shields.io/badge/Backend%20Systems-6A5ACD?style=for-the-badge&logo=spring&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Backend%20Systems-6A5ACD?style=for-the-badge&logo=spring&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Software%20Development-6A5ACD?style=flat-square&logo=github&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=flat-square&logo=pytorch&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Data%20Analysis%20%26%20ML-5A4FCF?style=flat-square&logo=scikitlearn&logoColor=white" />
