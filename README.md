@@ -23,11 +23,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="42"/>
 </p>
 
-<!-- NETWORKING -->
-<h3 align="center">🌐 Networking</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy_logo.png" height="42"/>
-</p>
 
 <!-- CURRENT WORK -->
 <h3 align="center">🚧 Working On</h3>
