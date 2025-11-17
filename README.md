@@ -37,5 +37,3 @@
   <img height="28" src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=flat-square&logo=pytorch&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Data%20Analysis%20%26%20ML-5A4FCF?style=flat-square&logo=scikitlearn&logoColor=white" />
 </p>
-
-<p align="center">✨ clean • compact • aesthetic ✨</p>
