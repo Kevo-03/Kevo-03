@@ -61,4 +61,3 @@
 
 ---
 
-<p align="center">✨ aesthetic • minimal • logo-driven ✨</p>
