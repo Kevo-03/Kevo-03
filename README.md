@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" height="38"/>
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,linux,git,github,vscode" height="38"/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,git" height="38"/>
 </p>
 
 <!-- AI & DATA -->
