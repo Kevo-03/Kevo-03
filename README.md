@@ -6,13 +6,13 @@
 <h3 align="center">💠 Tech Stack</h3>
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,c,cpp" height="38"/>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,c" height="38"/>
   <br/>
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs" height="38"/>
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,git" height="38"/>
+  <img src="https://skillicons.dev/icons?i=redis,docker,git" height="38"/>
 </p>
 
 <!-- AI & DATA -->
