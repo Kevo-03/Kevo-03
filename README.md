@@ -8,10 +8,10 @@
   <img src="https://skillicons.dev/icons?i=java,python,typescript,c" height="38"/>
   <br/>
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,pytorch" height="38"/>
+  <img src="https://skillicons.dev/icons?i=spring,nestjs,fastapi,pytorch" height="38"/>
   <br/>
   <!-- Row 3 -->
-  <img src="https://skillicons.dev/icons?i=redis,docker,git" height="38"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,redis,docker,git" height="38"/>
 </p>
 
 
