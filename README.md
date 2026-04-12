@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img height="28" src="https://img.shields.io/badge/Backend%20Systems-7B68EE?style=flat-square&logo=spring&logoColor=white" />
+  <img height="28" src="https://img.shields.io/badge/Backend%20Systems-7B68EE?style=flat-square&logo=docker&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Software%20Development-6A5ACD?style=flat-square&logo=github&logoColor=white" />
   <img height="28" src="https://img.shields.io/badge/Deep%20Learning-9370DB?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
